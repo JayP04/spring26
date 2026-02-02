@@ -8,12 +8,7 @@
 
 ## Quick checklist
 - [ ] Set up repo & README
-- [ ] Define scope & requirements
-- [ ] Create initial prototype
-- [ ] Write tests
-- [ ] CI / CD setup
-- [ ] Documentation
-- [ ] Final review & release
+
 
 ## Milestones
 ### Milestone 1 — Setup
